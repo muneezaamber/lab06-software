@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: webapp-pod
+spec:
+  containers:
+  - name: webapp
+    image: webapp:1.27
+    ports:
+    - containerPort: 80
+    # edited by Muneeza Amber
