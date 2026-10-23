@@ -1,0 +1,1 @@
+The apt update command only downloads the latest list of available packages from the internet, but it does not install anything. The apt upgrade command actually installs the new versions of the software. You should always run update first, and then run upgrade.
