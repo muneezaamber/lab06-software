@@ -1,0 +1,2 @@
+1. I installed the 'hello' snap using 'sudo snap install hello'. It is a simple test program.
+2. We must only add signing keys from official websites because they act as digital ID cards for software. If we add a fake signing key from an untrusted source, our server will blindly trust and install packages from hackers. This could result in malware, data theft, and total compromise of our Cloud Server.
